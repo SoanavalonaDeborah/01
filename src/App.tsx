@@ -1,5 +1,6 @@
 import './assets/css/App.css'
-import Formulaire from './components/formulaire'
+import Formulaire from './components/formulaire01'
+import Formulaire02 from './components/formulaire02'
 
 
 function App() {
@@ -7,7 +8,7 @@ function App() {
 
   return (
     <>
-      <Formulaire />
+      <Formulaire02 />
     </>
   )
 }
